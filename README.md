@@ -1,5 +1,5 @@
 
-# 🚁 Drone Control Interface
+# 🚁 Drone Control Interface and Real-time Object Detection using AI.
 
 ## Overview
 
