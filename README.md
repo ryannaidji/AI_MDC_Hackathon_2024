@@ -1,3 +1,4 @@
+![** 🏆 BEST OVERALL PROJECT AWARD**](chemin/vers/l'image.extension)
 
 # 🚁 Drone Control Interface and Real-time Object Detection using AI.
 
