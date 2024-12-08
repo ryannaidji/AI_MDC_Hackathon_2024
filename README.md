@@ -1,4 +1,4 @@
-![** 🏆 BEST OVERALL PROJECT AWARD**](chemin/vers/l'image.extension)
+![** 🏆 BEST OVERALL PROJECT AWARD**](hackathon_mdc.png)
 
 # 🚁 Drone Control Interface and Real-time Object Detection using AI.
 
