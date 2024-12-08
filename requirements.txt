@@ -1,0 +1,4 @@
+gradio
+djitellopy
+ultralytics
+opencv-python
