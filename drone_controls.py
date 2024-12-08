@@ -67,9 +67,10 @@ def get_frame(process=False):
             frame = results[0].plot() if results else frame
 
         # Convert frame to RGB for display in Gradio
-        frame_rgb = cv2.cvtColor(frame, cv2.COLOR_BGR2RGB)
-        yield frame_rgb  # Send frame to Gradio
-
+        
+        #frame_rgb = cv2.cvtColor(frame, cv2.COLOR_BGR2RGB)
+        #yield frame_rgb  # Send frame to Gradio
+        yield frame
 
 def stop_feed():
     """Stop the video feed."""
